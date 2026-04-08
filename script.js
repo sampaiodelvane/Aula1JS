@@ -12,5 +12,11 @@
 // console.log("Texto/2");
 // console.log(typeof nome);
 
-let nome = prompt("Qual é o seu nome");
-alert(`Olá ${nome}!`)
+// let nome = prompt("Qual é o seu nome");
+// alert(`Olá ${nome}!`)
+
+let nome = prompt("Qual é o seu nome")
+let age = prompt("Qual é a sua idade")
+let job = prompt("Trabalha com o que?")
+
+alert(`Olá ${nome}! Sua idade é ${age} anos e trabalha com ${job}`)
