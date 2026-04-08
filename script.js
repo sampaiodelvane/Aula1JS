@@ -17,6 +17,6 @@
 
 let nome = prompt("Qual é o seu nome")
 let age = prompt("Qual é a sua idade")
-let job = prompt("Trabalha com o que?")
+let job = prompt("Qual sua profissão?")
 
-alert(`Olá ${nome}! Sua idade é ${age} anos e trabalha com ${job}`)
+alert(`Olá, ${nome}! Sua idade é ${age} anos e trabalha com ${job}`)
